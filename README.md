@@ -2,8 +2,6 @@
 
 # Node Exemplos
 
-[![Versao npm](https://img.shields.io/npm/v/ws.svg)](https://www.npmjs.com/package/ws)
-
 Antes de tudo faça a instalação do Node.js, siga as instruções do site oficial
 [Node.js](https://nodejs.org/en)
 
