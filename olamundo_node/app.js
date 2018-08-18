@@ -1,17 +1,8 @@
-var express = require('express');
-var debug = require('debug')('my-application');
-var app = require('../app');
+var app = require('express')();
 var http = require('http').Server(app);
-var io = require('socket.io')(http);
 
 app.get('/', function(req, res) {
-  res.sendFile(__dirname + '/index');
-});
-
-io.on('connection', function(socket){
-  socket.on('chat message', function(msg){
-    io.emit('chat message', socket.id + ": "+ msg);
-  });
+  res.send('Olá Noje.js');
 });
 
 http.listen(3000, function() {
