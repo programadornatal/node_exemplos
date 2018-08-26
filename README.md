@@ -9,7 +9,10 @@ Antes de tudo faça a instalação do Node.js, siga as instruções do site ofic
 
 [![GitHub stars](https://img.shields.io/github/stars/programadornatal/node_exemplos.svg?style=social&label=Star)](https://github.com/programadornatal/node_exemplos) [![GitHub forks](https://img.shields.io/github/forks/programadornatal/node_exemplos.svg?style=social&label=Fork)](https://github.com/programadornatal/node_exemplos/fork) [![GitHub watchers](https://img.shields.io/github/watchers/programadornatal/node_exemplos.svg?style=social&label=Watch)](https://github.com/programadornatal/node_exemplos) [![GitHub followers](https://img.shields.io/github/followers/programadornatal.svg?style=social&label=Follow)](https://github.com/programadornatal/node_exemplos) Este repositório contém alguns exemplos de códigos Node.js
 
+1.  [Passo a Passo](/passoapasso) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/node_exemplos/tree/master/passoapasso)
 1.  [Exemplo Basico](/olamundo_node) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/node_exemplos/tree/master/olamundo_node)
+1.  [Iniciando com Express](/iniciandocomexpress) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/node_exemplos/tree/master/iniciandocomexpress)
+1.  [Express com EJS](/expresscomejs) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/node_exemplos/tree/master/expresscomejs)
 1.  [Chat Node WebSocket](/chatnode_websocket) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/node_exemplos/tree/master/chatnode_websocket)
 
 ### Criado e mantido por
